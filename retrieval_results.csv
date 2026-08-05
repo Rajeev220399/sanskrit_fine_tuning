@@ -1,0 +1,4 @@
+query,expected,predicted,score
+perform duty without attachment,कर्मण्येवाधिकारस्ते मा फलेषु कदाचन,कर्मण्येवाधिकारस्ते मा फलेषु कदाचन,0.8568
+nothing is as purifying as knowledge,न हि ज्ञानेन सदृशं पवित्रमिह विद्यते,न हि ज्ञानेन सदृशं पवित्रमिह विद्यते,0.9154
+uplift yourself by your own mind,उद्धरेदात्मनात्मानं नात्मानमवसादयेत्,उद्धरेदात्मनात्मानं नात्मानमवसादयेत्,0.8438
