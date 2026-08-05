@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
