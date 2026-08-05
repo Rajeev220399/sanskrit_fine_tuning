@@ -1,1 +1,1 @@
-# sanskrit_fine_tuning
+sanskrit-language-model
